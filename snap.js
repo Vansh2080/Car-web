@@ -1,4 +1,4 @@
-﻿const puppeteer = require("puppeteer-core");
+const puppeteer = require("puppeteer-core");
 const fs = require('fs');
 
 (async () => {

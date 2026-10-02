@@ -1,4 +1,4 @@
-﻿const fs = require('fs');
+const fs = require('fs');
 const code = fs.readFileSync('index.html', 'utf8');
 
 const newPhantomComponents = `const phantomComponents = {
